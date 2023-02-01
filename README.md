@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yigiterkan
-- 👀 I’m interested in .Net,Vue.JS
+- 👀 I’m interested in React.JS, Next.JS, Vue.JS, Nuxt.JS
 - 🌱 I’m currently learning Angular.JS
 - 📫 How to reach me erkan.cumhur@hotmail.com
 
